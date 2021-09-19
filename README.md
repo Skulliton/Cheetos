@@ -1,4 +1,4 @@
 # Skullitons Cheats
-Skullitons personal mod menus and hacks for games
+Mod Menus based with AHK
 
 Join my discord; https://discord.gg/bhTKyH6dkx
