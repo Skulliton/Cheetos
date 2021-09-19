@@ -1,4 +1,4 @@
 # Skullitons Cheats
-Skullitons personal mod menus and hacks for games
+All of the mod menus I put time in to
 
 Join my discord; https://discord.gg/bhTKyH6dkx
